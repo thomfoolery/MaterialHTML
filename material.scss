@@ -1,3 +1,70 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.type-display-1 {
+  font-weight: 400;
+  font-size: 34px;
+}
+
+.type-display-2 {
+  font-weight: 400;
+  font-size: 45px;
+}
+
+.type-display-3 {
+  font-weight: 400;
+  font-size: 56px;
+}
+
+.type-display-4 {
+  font-weight: 300;
+  font-size: 112px;
+  letter-spacing: -5px;
+}
+
+.type-headline {
+  font-weight: 400;
+  font-size: 24px;
+}
+
+.type-title {
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.type-subhead {
+  font-weight: 400;
+  font-size: 15px;
+}
+
+.type-body-2 {
+  font-weight: 500;
+  font-size: 13px;
+}
+
+.type-body-1 {
+  font-weight: 400;
+  font-size: 13px;
+}
+
+.caption {
+  font-weight: 400;
+  font-size: 12px;
+}
+
+.menu {
+  font-weight: 500;
+  font-size: 13px;
+}
+
+button,
+.button {
+  font-weight: 500;
+  font-size: 14px;
+  text-transform: uppercase;
+}
+
 // Colors
 
 // Red
